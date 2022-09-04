@@ -1,0 +1,6 @@
+Task1:
+hands on gitcheat commands
+Task2: try to authenticate using 
+1.user name and password
+2.using ssh
+task 3 git clone using ssh
