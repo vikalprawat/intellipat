@@ -4,3 +4,6 @@ Task2: try to authenticate using
 1.user name and password
 2.using ssh
 task 3 git clone using ssh
+
+Task4: setup jenkins server
+task5: find difference between different items in jenkins
